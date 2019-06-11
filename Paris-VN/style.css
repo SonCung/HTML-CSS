@@ -1,0 +1,455 @@
+
+/*------------------------- Main -----------------*/
+*{
+	margin:  0 auto;
+}
+.padding-custom{
+	padding:  0px !important;
+}
+header{
+	background-image: url(img-pc/banner_mypham_paris1.jpg) !important;
+	background-size: cover;
+    padding: 20px 0px;
+    background-position: bottom;
+    text-align: center;
+}
+.scroll-menu{
+	width: 100%;
+	display: none;
+	position: fixed;
+	top: 0;
+	z-index: 99999999;
+	height: 80px;
+}
+#logo-custom{
+	max-width: 15%;
+	padding-bottom: 20px;
+}
+.content{
+	background-color: #fff;
+    position: relative;
+}
+.menu-header{
+	background-color: #000000;
+}
+.phone-icon{
+	font-size: 18px !important;
+}
+.hotline{
+    background-color: #e8c380;
+    padding: 5px 10px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    width: 13% !important;
+}
+.hotline span{
+	padding-left: 10px;
+}
+.hotline span:hover{
+	text-decoration: underline;
+	color: #fff;
+}
+
+.navbar{
+	margin-bottom: 0px !important;
+	border: none !important;
+}
+.navbar-nav>li>a{
+	text-decoration: none !important;
+	color: #e8c380 !important;
+	text-transform: uppercase !important;
+}
+.navbar-nav{
+	padding-left: 30% !important;
+}
+.navbar-nav>li>a:hover{
+	background-color: #000000 !important;
+	color: #fff !important;
+}
+.shoping-icon{
+	font-size:25px !important;
+	color:#e8c380;
+	margin-top: 10px;
+}
+.shoping-text{
+	font-size:18px;
+	color:#e8c380;
+	padding-left: 10px;
+}
+
+.banner-main{
+	background-image: url(img-pc/banner_nhuom_toc_chuan_salon1.jpg) !important;
+	background-size: cover;
+    background-position: center;
+    height: 650px;
+}
+.banner-star{
+	background-color: #000000;
+	padding: 20px 0px;
+}
+.text{
+	vertical-align: baseline;
+	text-align: center;
+	padding:  15px 0px;
+	font-size: 16px;
+	color: #e8c380;
+}
+.banner-sanpham{
+	padding: 40px 0px;
+}
+.title-sanpham{
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
+.content-sanpham{
+	text-align: center;
+	position: relative;
+}
+.sale{
+	position: absolute;
+    top: 5px;
+    left: 25px;
+    z-index: 1;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 50%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    width: 50px;
+    height: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    background-color: #111;
+}
+.text-title{
+	padding: 10px;
+}
+.xemthem{
+	padding: 25px 0px 20px 0px;
+	text-align: center;
+}
+.custom-padding-top{
+	padding-top: 30px;
+}
+
+.banner-danhgia{
+	background-color: #000000;
+	text-align: center;
+	color: #e8c380;
+}
+.title-danhgia{
+	padding: 20px 0px;
+}
+.title-danhgia span{
+	font-size: 35px;
+}
+.title-danhgia div{
+	font-size: 18px;
+
+}
+.content-danhgia{
+	padding-bottom: 30px;
+}
+.text-content-danhgia{
+	font-size: 30px;
+	padding-top: 20px;
+}
+.banner-ykien{
+	padding: 20px 0px;
+}
+.title-ykien{
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
+
+.slider-header div img{
+	height: 250px;
+}
+.slick-dots{
+	background-color: #ffffff !important;
+	padding: 20px !important;
+}
+.slick-prev, .slick-next{
+	background-color: #111 !important;
+}
+.slick-slide{
+	height: 300px !important;
+}
+footer{
+	background-color: #000000;
+	padding: 60px 0px;
+	color: #e8c380;
+}
+.text-footer-qc{
+	font-size: 18px;
+}
+.text-footer{
+	font-size: 25px;
+	text-decoration: underline;
+}
+/*---------- Animated Sidenav -------------*/
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.zoom{
+	transition: transform 1s;
+}
+.zoom:hover{
+	transform: scale(1.05);
+}
+.tintuc{
+	background-color: #f2f2f2;
+	margin-bottom: 30px;
+}
+.title-tintuc{
+	padding: 20px 0px;
+}
+.title-tintuc p{
+	font-size: 22px;
+	color: #be66b4;
+}
+.title-tintuc span{
+	font-size: 16px;
+}
+.title-tintuc a{
+	text-align: right;
+}
+.banner-lienhe{
+	padding: 40px 0px;
+}
+.title-lienhe{
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.line-lienhe{
+	display: table; 
+	margin-top: 15px;
+	border-top: 1px solid #111;
+}
+.line-lienhe2{
+	display: table; 
+	margin-top: 40px;
+	border-top: 1px solid #111;
+}
+.form-lienhe{
+	padding-top: 50px;
+}
+@media screen and (max-width: 1400px){
+.hotline{
+	width: 16% !important;
+}
+.navbar-nav{
+	padding-left: 10% !important;
+}
+}
+
+@media screen and (max-width: 1280px){
+.hotline{
+	width: 20% !important;
+}
+.navbar-nav{
+	padding-left: 0% !important;
+}
+.banner-main{
+	height: 500px;
+}
+.text-footer-qc {
+    font-size: 15px;
+}
+.text-footer{
+	font-size: 20px;
+}
+}
+@media screen and (max-width: 1024px){
+.hotline{
+	width: 22% !important;
+}
+.navbar-nav{
+	font-size: 11px;
+}
+.text{
+	font-size: 14px;
+}
+.text-title{
+	font-size: 10px;
+}
+.text-content-danhgia{
+	font-size: 20px;
+}
+.text-footer-qc {
+    font-size: 12px;
+}
+.text-footer{
+	font-size: 18px;
+}
+.title-lienhe{
+	font-size: 20px;
+}
+}
+@media screen and (max-width: 920px){
+.hotline{
+	margin-left: 20px;
+}
+.hotline span{
+	font-size: 12px;
+}
+.navbar-nav{
+	font-size: 10px;
+}
+.banner-main{
+	height: 440px;
+}
+.title-lienhe{
+	font-size: 15px;
+}
+.line-lienhe{
+	display: none;
+}
+.line-lienhe2{
+	display: none;
+}
+.padding-top-mb{
+	padding-top: 15px;
+}
+}
+@media screen and (max-width: 768px){
+.hotline{
+	width: 23% !important;
+	margin-left: 15px;
+}
+.phone-icon{
+	display: none !important;
+}
+.shoping-text{
+	font-size: 12px;
+}
+} 
+
+@media screen and (max-width: 767px){
+.hotline{
+	width: 40% !important;
+}
+.navbar-nav{
+	font-size: 15px;
+}
+.sidenav .navbar-nav>li>a{
+	font-size: 15px;
+	padding-left: 20% !important;
+}
+.sidenav .closebtn{
+	font-size: 40px !important;
+}
+.navbar-nav .open .dropdown-menu>li>a{
+	font-size: 15px;
+    padding-left: 25% !important;
+    color: #fff;
+}
+.title-lienhe{
+	padding-top: 40px;
+}
+}
+@media screen and (max-width: 640px){
+.hotline{
+	width: 45% !important;
+}
+.navbar-inverse{
+	border-radius: 0px !important;
+}
+.phone-icon{
+	display: inline-flex !important;
+}
+.banner-main{
+	height: 220px;
+}
+.text-title{
+	font-size: 13px;
+}
+.custom-padding-top-mb{
+	padding-top: 20px;
+}
+.custom-padding-top{
+	padding-top: 20px;
+}
+.padding-danhgia{
+	padding-top: 20px;
+}
+.text-footer{
+	padding: 20px 0px;
+}
+.zoom{
+	width: 80%;
+}
+}
+@media screen and (max-width: 375px){
+.hotline{
+	width: 65% !important;
+}
+.banner-main{
+	height: 150px;
+}
+.title-sanpham{
+	font-size: 18px;
+}
+.text-title{
+	font-size: 11px;
+}
+.title-danhgia span{
+	font-size: 18px;
+}
+.title-danhgia div{
+
+	font-size: 15px;
+}
+.title-ykien{
+	font-size: 18px;
+}
+.slick-prev, .slick-next{
+	display: none !important;
+}
+.sale{
+	left: 5px;
+}
+}
+
+
+
+
+
