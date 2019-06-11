@@ -1,0 +1,199 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: web_crazymonday_exp.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 360 px x 640 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+Roboto Medium (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+San Francisco Display Regular (OTF)
+SF UI Display (OTF)
+SF UI Display Medium (OTF)
+SF UI Display Semibold (OTF)
+SF UI Display Bold (OTF)
+SF UI Display Heavy (OTF)
+SF UI Text Bold Italic (OTF)
+SF UI Text Italic (OTF)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/DaThongBaoBoCongThuong.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 29K, 141 by 54 pixels
+Dimensions: 77.586 by 29.714 points 
+Resolution: 130.848 by 130.848 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/DaThongBaoBoCongThuong.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 29K, 141 by 54 pixels
+Dimensions: 77.586 by 29.714 points 
+Resolution: 130.848 by 130.848 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/DaThongBaoBoCongThuong.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 29K, 141 by 54 pixels
+Dimensions: 77.586 by 29.714 points 
+Resolution: 130.848 by 130.848 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/DaThongBaoBoCongThuong.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 29K, 141 by 54 pixels
+Dimensions: 77.586 by 29.714 points 
+Resolution: 130.848 by 130.848 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/DaThongBaoBoCongThuong.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 29K, 141 by 54 pixels
+Dimensions: 77.586 by 29.714 points 
+Resolution: 130.848 by 130.848 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/DaThongBaoBoCongThuong.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 29K, 141 by 54 pixels
+Dimensions: 77.586 by 29.714 points 
+Resolution: 130.848 by 130.848 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch
+
+
+/Users/nguyenducdzung/Downloads/index1_Folder/Links/IMG_9864.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2931K, 750 by 1334 pixels
+Dimensions: 359.429 by 639.304 points 
+Resolution: 150.238 by 150.238 pixels per inch

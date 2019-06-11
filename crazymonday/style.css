@@ -1,0 +1,262 @@
+
+/*------------------------- Main -----------------*/
+*{
+	margin:  0 auto;
+}
+.custom-padding{
+	padding: 0px !important;
+	max-width: 1366px;
+}
+.slide-custom{
+	position: relative;
+}
+#logo-header{
+	position: absolute;
+    z-index: 99;
+    top: 10px;
+}
+#logo-header img{
+	width: 70%;
+}
+#sale-off{
+	position: absolute;
+	z-index: 99;
+	top: 5%;
+    left: 40%;
+}
+.fix-countdown{
+	position: absolute !important;
+    z-index: 99;
+    top: 60%;
+    left: 40%;
+}
+.time_circles > div > h4{
+	font-size: 18px !important;
+	color: #fcd408;
+}
+.text-banner .time_circles > div > h4{
+	font-size: 8px !important;
+	color: #fcd408;
+}
+
+.text-banner .time_circles > div > span {
+	font-size: 17px !important;
+	color: #fcd408;
+}
+.time_circles > div > span {
+	font-size: 40px !important;
+	color: #fcd408;
+}
+.arrow-down{
+	z-index: 99;
+    position: absolute;
+    left: 48%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom:5%;
+    font-size: 50px;
+    animation: mymove 2s ease-in-out 2s infinite;
+}
+
+@keyframes mymove {
+    from {bottom: 8%;}
+    to {bottom: 5%;}
+}
+
+
+#logo-header-mb{
+	position: absolute;
+    z-index: 99;
+    top: 50px;
+}
+#sale-off-mb{
+	position: absolute;
+	z-index: 99;
+	top: 15%;
+    left: 30%;
+}
+.fix-countdown-mb{
+	position: absolute !important;
+    z-index: 99;
+    top: 65%;
+    left: 30%;
+}
+.arrow-down-mb{
+	z-index: 99;
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: 2%;
+    font-size: 50px;
+    animation: mymove2 2s ease-in-out 2s infinite;
+}
+
+@keyframes mymove2 {
+    from {bottom: 5%;}
+    to {bottom: 2%;}
+}
+.content-popup{
+	text-align: center;
+}
+/* --------content ------------*/
+.address-tab .nav-pills>li{
+	width: 24% !important;
+	text-align: center;
+	font-weight: bold;
+}
+.address-tab .nav-pills>li.active>a, .address-tab .nav-pills>li.active>a:focus{
+	color: #111;
+	background-color: #fff;
+	border-bottom: 5px solid #111;
+	font-weight: bold;
+}
+.sale{
+	background-color: #ececec;
+	padding-top: 40px;
+	border-bottom: 1px dashed #60535F;
+}
+.sale-price{
+	border-right: 1px dashed #60535F;
+	padding-bottom: 30px;
+}
+.sale-price img{
+	width: 60%;
+}
+.choose-store{
+	background-color: #ececec;
+}
+.logo{
+	margin:  30px 15px;
+}
+.list-logo div{
+	background: #fff;
+    border: 1px solid #666666;
+    margin-bottom: 30px;
+}
+.list-logo img{
+	padding: 20px;
+    max-width: 100%;
+    height: 120px;
+}
+.text-title{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 25px 0px;
+	font-size: 30px;
+}
+
+.border-custom{
+	border: 1px solid #666;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.text-banner{
+	padding: 20px 10px;
+}
+.title-text-banner{
+	font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.content-text-banner{
+	text-align: justify;
+}
+.button-banner{
+	margin-bottom: 15px;
+}
+
+/* footer */
+.content-footer{
+	background-color: #171719;
+}
+.logo-footer{
+	padding: 30px 0px;
+}
+.text-footer{
+	padding-bottom: 40px;
+}
+.about{
+	font-size: 17px;
+    line-height: 30px;
+}
+.copyright{
+	font-size: 17px;
+    line-height: 30px;
+    padding-top: 35px;
+}
+
+
+/* -------------responsive -------------------*/
+@media screen and (max-width: 1200px){
+#sale-off img{
+	width:85%;
+}
+#sale-off{
+    left: 38%;
+}
+.title-text-banner{
+	font-size: 18px;
+}
+.about{
+	font-size: 15px;
+}
+.time_circles > div > span{
+	font-size: 30px !important;
+}
+}
+@media screen and (max-width: 920px){
+#sale-off img{
+	width:70%;
+}
+.content-text-banner{
+	font-size: 18px;
+}
+}
+@media screen and (max-width: 768px){
+#sale-off img{
+	width:50%;
+}
+#sale-off{
+    left: 35%;
+}
+}
+@media screen and (max-width: 480px){
+.nav-pills>li>a{
+	font-size: 11px;
+}
+.fix-countdown-mb{
+	left: 35%;
+}
+.about{
+	font-size: 12px;
+}
+}
+@media screen and (max-width: 360px){
+
+#sale-off-mb{
+	width: 40%;
+}
+
+}
+@media screen and (max-width: 320px){
+#logo-header-mb{
+	top: 40px;
+	}
+.nav-pills>li>a{
+	font-size: 7px;
+}
+.text-title{
+	font-size: 20px;
+}
+.content-text-banner{
+	font-size: 15px;
+}
+.copyright{
+	font-size: 13px;
+}
+.time_circles > div > h4{
+	font-size: 8px !important;
+}
+}
